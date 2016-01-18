@@ -18,8 +18,8 @@ A simple sandbox for ROS turtlesim.
  $ roslaunch myturtle myturtle.launch
 ```
 
-## Info
-Default radius to is set to 10.
+## Infos
+Default radius is set to 10.
 
 3 designs are available:
 - [`V1`] constant velocity 6.1
